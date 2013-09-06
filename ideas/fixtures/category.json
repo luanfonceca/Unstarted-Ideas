@@ -3,24 +3,24 @@
     "pk": 1, 
     "model": "ideas.category", 
     "fields": {
-        "name": "Program\u00e1vel", 
-        "slug": "programavel"
+        "name": "Programable", 
+        "slug": "programable"
     }
 },
 {
     "pk": 2, 
     "model": "ideas.category", 
     "fields": {
-        "name": "Empreendora", 
-        "slug": "empreendora"
+        "name": "Enterpreour", 
+        "slug": "enterpreour"
     }
 },
 {
     "pk": 3, 
     "model": "ideas.category", 
     "fields": {
-        "name": "Servi\u00e7o", 
-        "slug": "servico"
+        "name": "Service", 
+        "slug": "service"
     }
 }
 ]
