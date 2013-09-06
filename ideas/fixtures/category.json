@@ -1,0 +1,26 @@
+[
+{
+    "pk": 1, 
+    "model": "ideas.category", 
+    "fields": {
+        "name": "Program\u00e1vel", 
+        "slug": "programavel"
+    }
+},
+{
+    "pk": 2, 
+    "model": "ideas.category", 
+    "fields": {
+        "name": "Empreendora", 
+        "slug": "empreendora"
+    }
+},
+{
+    "pk": 3, 
+    "model": "ideas.category", 
+    "fields": {
+        "name": "Servi\u00e7o", 
+        "slug": "servico"
+    }
+}
+]
